@@ -19,3 +19,41 @@ A responsive social link profile card that works perfectly on all devices, from 
 ## 🔧 How to Run
 1. Clone the repository.
 2. Open `index.html` in your browser.
+
+# Social links profile - Frontend Mentorou Challenge
+
+Visit the website:
+
+https://norikeenan.github.io/social-links-profile/
+
+
+PTBR
+
+# Perfil de links sociais - Desafio Frontend Mentor
+
+Esta é a minha solução para o [desafio de perfil de links sociais no Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32t1S-p). Eu criei isso para praticar o fluxo de trabalho **Mobile-First** e uma estrutura CSS limpa.
+
+## 🚀 O projeto
+Um cartão de perfil de links sociais responsivo que funciona perfeitamente em todos os dispositivos, desde telemóveis a computadores de última geração.
+
+## 🛠️ Construído com
+* **HTML5:** Marcação semântica.
+* **CSS3:** Propriedades personalizadas, Flexbox e Media Queries.
+* **Fluxo de trabalho Mobile-First:** Garantindo primeiro o desempenho e a estabilidade do layout em ecrãs pequenos.
+* **Google Fonts:** Inter family.
+
+## 📱 Características
+* Otimizado para ecrãs móveis e de computador.
+* Estados de foco para todos os elementos interativos.
+* Código limpo sem CSS inline.
+
+## 🔧 Como executar
+1. Clone o repositório.
+2. Abra o `index.html` no seu navegador.
+
+ou 
+
+Acesse o site:
+
+https://norikeenan.github.io/social-links-profile/
+
