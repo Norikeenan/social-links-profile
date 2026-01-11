@@ -1,0 +1,21 @@
+# Social Links Profile - Frontend Mentor Challenge
+
+This is my solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32t1S-p). I built this to practice **Mobile-First** workflow and clean CSS structure.
+
+## 🚀 The Project
+A responsive social link profile card that works perfectly on all devices, from mobile phones to high-end desktops.
+
+## 🛠️ Built With
+* **HTML5:** Semantic markup.
+* **CSS3:** Custom properties, Flexbox, and Media Queries.
+* **Mobile-First Workflow:** Ensuring performance and layout stability on small screens first.
+* **Google Fonts:** Inter family.
+
+## 📱 Features
+* Optimized for mobile and desktop screens.
+* Hover states for all interactive elements.
+* Clean code with no inline CSS.
+
+## 🔧 How to Run
+1. Clone the repository.
+2. Open `index.html` in your browser.
